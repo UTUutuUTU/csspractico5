@@ -1,0 +1,67 @@
+#tituloPrincipal {
+  font-size: 2.5em;
+  color: darkblue;
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+
+h1, h2 {
+  color: darkblue;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+p {
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: justify;
+  text-indent: 20px;
+}
+
+
+.destacado {
+  background-color: yellow;
+  font-style: italic;
+  padding: 10px;
+}
+
+
+table {
+  width: 80%;
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+
+
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+tr:nth-child(even) {
+  background-color: #f0f0f0;
+}
+
+
+.colorRojo {
+  background-color: lightblue;
+}
+
+.colorAmarillo {
+  background-color: lightgreen;
+}
+
+.colorAzul {
+  background-color: lightcoral;
+}
+
+.colorExtra {
+  background-color: peachpuff;
+}
+
